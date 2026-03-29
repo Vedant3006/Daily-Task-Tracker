@@ -69,3 +69,8 @@ Enter the task you want to add: Complete Python BYOP Project
 Enter your choice (1/2/3/4): 1
 --- Your Pending Tasks ---
 1. Complete Python BYOP Project
+
+
+<img width="1183" height="696" alt="Screenshot 2026-03-29 121559" src="https://github.com/user-attachments/assets/054f2ded-43c0-4d5c-9a7e-101cd423d54c" />
+
+<img width="1363" height="692" alt="Screenshot 2026-03-29 121738" src="https://github.com/user-attachments/assets/e2cc892d-3020-43cf-9b70-37d522f3b912" />
